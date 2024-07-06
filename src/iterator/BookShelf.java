@@ -1,4 +1,4 @@
-package Iterator;
+package iterator;
 
 public class BookShelf implements Iterable<Book> {
     private Book[] books;
